@@ -48,14 +48,3 @@ Built vehicle detection firmware reading piezoelectric sensors via ADC. Designed
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bleep-bleep-bloop2882&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleep-bleep-bloop2882&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bleep-bleep-bloop2882&theme=tokyonight&hide_border=true"/>
-</p>
